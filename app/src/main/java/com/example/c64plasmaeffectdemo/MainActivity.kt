@@ -37,6 +37,8 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun C64PlasmaEffect() {
+
+    //classic 320x200 >> half pixels
     val width = 160
     val height = 100
 
